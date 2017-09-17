@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://dl.dropboxusercontent.com/u/3536335/site/index.html" resolutions="1x" timestamp="1486770699228">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://roli-wilhelm.github.io/index.html" resolutions="1x" timestamp="1505686551449">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="4003044962" ref="data-warehouse:blog---challenges-and-triumphs:fastqc-graph-c12:micb301:fastqc-k-mer-table:index"/>
@@ -7,7 +7,7 @@
     <file name="fastqc-graph-c12.css" crc="3764647911" ref="fastqc-graph-c12"/>
     <file name="micb301.css" crc="3966920216" ref="micb301"/>
     <file name="fastqc-k-mer-table.css" crc="3907151465" ref="fastqc-k-mer-table"/>
-    <file name="index.css" crc="4221310339" ref="index"/>
+    <file name="index.css" crc="379386686" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="skeptical.png" crc="3870951823" seo="true" mt="1401219678000"/>
@@ -48,7 +48,7 @@
     <file name="skeptical.jpg" crc="6799686" seo="true" ref="fastqc-graph-c12"/>
     <file name="top k-mers.jpg" crc="4079740781" seo="true" ref="fastqc-k-mer-table"/>
   </folder>
-  <file name="index.html" crc="139329775" seo="true" mt="1486770697265" redirect="true"/>
+  <file name="index.html" crc="4184507583" seo="true" mt="1505686550576" redirect="true"/>
   <file name="blog---challenges-and-triumphs.html" crc="469088059" seo="true" mt="1485450916128" redirect="true"/>
   <file name="fastqc-graph-c12.html" crc="3917728645" seo="true" mt="1485450916128" redirect="true"/>
   <file name="fastqc-k-mer-table.html" crc="94874027" seo="true" mt="1485450916128" redirect="true"/>

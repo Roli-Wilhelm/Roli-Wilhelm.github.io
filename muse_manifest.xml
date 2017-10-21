@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://roli-wilhelm.github.io/index.html" resolutions="1x" timestamp="1505686623304">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="roli-wilhelm.github.io" resolutions="1x" timestamp="1508612112357">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="4003044962" ref="data-warehouse:blog---challenges-and-triumphs:fastqc-graph-c12:micb301:fastqc-k-mer-table:index"/>
-    <file name="data-warehouse.css" crc="91059820" ref="data-warehouse"/>
-    <file name="blog---challenges-and-triumphs.css" crc="4156184551" ref="blog---challenges-and-triumphs"/>
-    <file name="fastqc-graph-c12.css" crc="3764647911" ref="fastqc-graph-c12"/>
-    <file name="micb301.css" crc="3966920216" ref="micb301"/>
-    <file name="fastqc-k-mer-table.css" crc="3907151465" ref="fastqc-k-mer-table"/>
-    <file name="index.css" crc="379386686" ref="index"/>
+    <file name="master_a-master.css" crc="4115925259" ref="data-warehouse:blog---challenges-and-triumphs:fastqc-graph-c12:micb301:fastqc-k-mer-table:index"/>
+    <file name="data-warehouse.css" crc="300585621" ref="data-warehouse"/>
+    <file name="blog---challenges-and-triumphs.css" crc="267214397" ref="blog---challenges-and-triumphs"/>
+    <file name="fastqc-graph-c12.css" crc="60461010" ref="fastqc-graph-c12"/>
+    <file name="micb301.css" crc="385972801" ref="micb301"/>
+    <file name="fastqc-k-mer-table.css" crc="375944956" ref="fastqc-k-mer-table"/>
+    <file name="index.css" crc="4183905211" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="skeptical.png" crc="3870951823" seo="true" mt="1401219678000"/>
@@ -29,8 +29,7 @@
     <file name="pasted image 1400x934-crop-u1918.jpg" crc="493241983" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
     <file name="u1926-4.png" crc="3818168799" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
     <file name="mohnlab.jpg" crc="4209454461" seo="true" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
-    <file name="e-mail.jpg" crc="4051256773" seo="true" ref="index"/>
-    <file name="blog.jpg" crc="4284519359" seo="true" ref="index"/>
+    <file name="e-mail.jpg" crc="4090879427" seo="true" ref="index"/>
     <file name="img_9491.png" crc="480511402" seo="true" ref="index"/>
     <file name="flourish.png" crc="4096283133" seo="true" ref="index"/>
     <file name="ubc logo.jpg" crc="28202033" seo="true" ref="index"/>
@@ -48,10 +47,10 @@
     <file name="skeptical.jpg" crc="6799686" seo="true" ref="fastqc-graph-c12"/>
     <file name="top k-mers.jpg" crc="4079740781" seo="true" ref="fastqc-k-mer-table"/>
   </folder>
-  <file name="index.html" crc="438944801" seo="true" mt="1505686622595" redirect="true"/>
-  <file name="blog---challenges-and-triumphs.html" crc="469088059" seo="true" mt="1485450916128" redirect="true"/>
-  <file name="fastqc-graph-c12.html" crc="3917728645" seo="true" mt="1485450916128" redirect="true"/>
-  <file name="fastqc-k-mer-table.html" crc="94874027" seo="true" mt="1485450916128" redirect="true"/>
-  <file name="micb301.html" crc="32536262" seo="true" mt="1485450916128" redirect="true"/>
-  <file name="data-warehouse.html" crc="60873253" seo="true" mt="1485450916128" redirect="true"/>
+  <file name="index.html" crc="86617998" seo="true" mt="1508612110646" redirect="true"/>
+  <file name="blog---challenges-and-triumphs.html" crc="173757289" seo="true" mt="1508612094571" redirect="true"/>
+  <file name="fastqc-graph-c12.html" crc="344699540" seo="true" mt="1508612094571" redirect="true"/>
+  <file name="fastqc-k-mer-table.html" crc="4172271802" seo="true" mt="1508612094571" redirect="true"/>
+  <file name="micb301.html" crc="4244115415" seo="true" mt="1508612094571" redirect="true"/>
+  <file name="data-warehouse.html" crc="4272464692" seo="true" mt="1508612094571" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.micb301 /* version checker */
 {
-	color: #0000EC;
-	background-color: #726618;
+	color: #000017;
+	background-color: #017A41;
 }
 
 .html
@@ -48,7 +48,7 @@
 
 #u1918
 {
-	z-index: 17;
+	z-index: 16;
 	width: 326px;
 	margin-bottom: -2px;
 	margin-right: -10000px;
@@ -58,7 +58,7 @@
 
 #u1926-4
 {
-	z-index: 19;
+	z-index: 18;
 	margin-bottom: -3px;
 	width: 274px;
 	margin-right: -10000px;
@@ -105,7 +105,7 @@
 
 #u1762-4
 {
-	z-index: 23;
+	z-index: 22;
 	width: 560px;
 	min-height: 32px;
 	background-color: transparent;
@@ -119,7 +119,7 @@
 
 #u1764-4
 {
-	z-index: 33;
+	z-index: 32;
 	width: 120px;
 	min-height: 24px;
 	background-color: transparent;
@@ -131,7 +131,7 @@
 
 #u1763-6
 {
-	z-index: 27;
+	z-index: 26;
 	width: 319px;
 	min-height: 19px;
 	background-color: transparent;
@@ -139,7 +139,7 @@
 	position: relative;
 }
 
-#u1236-7
+#u1236-6
 {
 	z-index: 10;
 	width: 94px;

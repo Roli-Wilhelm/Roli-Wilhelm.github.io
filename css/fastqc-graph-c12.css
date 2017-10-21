@@ -1,7 +1,7 @@
 .version.fastqc_graph_c12 /* version checker */
 {
-	color: #0000E0;
-	background-color: #63F7E7;
+	color: #000003;
+	background-color: #9A8FD2;
 }
 
 .html
@@ -48,7 +48,7 @@
 
 #u1918
 {
-	z-index: 17;
+	z-index: 16;
 	width: 326px;
 	margin-bottom: -2px;
 	margin-right: -10000px;
@@ -58,7 +58,7 @@
 
 #u1926-4
 {
-	z-index: 19;
+	z-index: 18;
 	margin-bottom: -3px;
 	width: 274px;
 	margin-right: -10000px;
@@ -105,7 +105,7 @@
 
 #u1585
 {
-	z-index: 23;
+	z-index: 22;
 	width: 939px;
 	background-color: transparent;
 	margin-left: 18px;
@@ -113,7 +113,7 @@
 	position: relative;
 }
 
-#u1236-7
+#u1236-6
 {
 	z-index: 10;
 	width: 94px;

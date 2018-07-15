@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FE;
-	background-color: #64E023;
+	color: #0000FC;
+	background-color: #3C293F;
 }
 
 .html
@@ -645,7 +645,7 @@
 	position: relative;
 }
 
-#u185-88
+#u185-90
 {
 	z-index: 134;
 	width: 852px;
@@ -670,7 +670,7 @@
 	font-weight: bold;
 }
 
-#u185-18
+#u185-20
 {
 	text-align: justify;
 	line-height: 20px;
@@ -678,7 +678,7 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u185-32,#u185-37,#u185-39
+#u185-34,#u185-39,#u185-41
 {
 	text-align: justify;
 	line-height: 20px;
@@ -688,7 +688,7 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u185-44
+#u185-46
 {
 	text-align: justify;
 	line-height: 20px;
@@ -699,12 +699,12 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u185-42
+#u185-44
 {
 	font-style: normal;
 }
 
-#u185-49
+#u185-51
 {
 	text-align: justify;
 	line-height: 20px;
@@ -714,7 +714,7 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u185-20,#u185-51
+#u185-22,#u185-53
 {
 	font-size: 18px;
 	line-height: 25px;
@@ -723,13 +723,13 @@
 	font-weight: bold;
 }
 
-#u185-60,#u185-63
+#u185-62,#u185-65
 {
 	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u185-57,#u185-66,#u185-72
+#u185-59,#u185-68,#u185-74
 {
 	text-align: justify;
 	line-height: 20px;
@@ -737,12 +737,12 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u185-53,#u185-54,#u185-56,#u185-59,#u185-62,#u185-65,#u185-68,#u185-69,#u185-71
+#u185-55,#u185-56,#u185-58,#u185-61,#u185-64,#u185-67,#u185-70,#u185-71,#u185-73
 {
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u185-75
+#u185-77
 {
 	text-align: justify;
 	line-height: 20px;
@@ -750,26 +750,26 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u1231,#u1231-3,#u1231-5,#u1231-7,#u185-73
+#u1231,#u1231-3,#u1231-5,#u1231-7,#u185-75
 {
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u185-80
+#u185-82
 {
 	text-align: center;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u185-76,#u185-77,#u185-79
+#u185-78,#u185-79,#u185-81
 {
 	font-size: 17px;
 	font-weight: bold;
 	line-height: 24px;
 }
 
-#u185-81,#u185-82,#u185-83,#u185-84,#u185-85,#u185-86
+#u185-83,#u185-84,#u185-85,#u185-86,#u185-87,#u185-88
 {
 	text-align: center;
 	line-height: 20px;
@@ -779,7 +779,7 @@
 
 #u110
 {
-	z-index: 222;
+	z-index: 224;
 	width: 250px;
 	background-color: transparent;
 	position: relative;
@@ -790,7 +790,7 @@
 
 #u175
 {
-	z-index: 224;
+	z-index: 226;
 	width: 959px;
 	background-color: transparent;
 	position: relative;
@@ -798,7 +798,7 @@
 
 #u178-4
 {
-	z-index: 225;
+	z-index: 227;
 	width: 947px;
 	min-height: 23px;
 	border-width: 1px;
@@ -852,7 +852,7 @@
 
 #u176
 {
-	z-index: 229;
+	z-index: 231;
 	width: 957px;
 	background: -webkit-gradient(linear, left center, right center, from(#FFFFFF),color-stop(100%, #FFFFFF));
 	background: -webkit-linear-gradient(left,#FFFFFF ,#FFFFFF 100%);
@@ -866,9 +866,9 @@
 	position: relative;
 }
 
-#u177-80
+#u177-78
 {
-	z-index: 230;
+	z-index: 232;
 	width: 728px;
 	min-height: 254px;
 	border-style: none;
@@ -883,23 +883,23 @@
 	left: 53px;
 }
 
-#u177-34
+#u177-33
 {
 	color: #000000;
 	font-weight: bold;
 }
 
-#u185-4,#u185-6,#u185-10,#u177-35
+#u185-4,#u185-6,#u185-10,#u177-34
 {
 	color: #000000;
 }
 
-#u177-2,#u177-19,#u177-69
+#u177-2,#u177-18,#u177-67
 {
 	font-weight: bold;
 }
 
-#u185-22,#u185-24,#u185-26,#u185-28,#u185-30,#u185-41,#u177-76
+#u185-24,#u185-26,#u185-28,#u185-30,#u185-32,#u185-43,#u177-74
 {
 	font-style: italic;
 }

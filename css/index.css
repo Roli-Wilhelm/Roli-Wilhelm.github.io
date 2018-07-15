@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #1F754F;
+	color: #000005;
+	background-color: #58DEFB;
 }
 
 .html
@@ -150,9 +150,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	line-height: 23px;
 	color: #999999;
 	font-size: 23px;
-	line-height: 23px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -221,9 +221,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 25px;
 	color: #000000;
 	font-size: 18px;
-	line-height: 25px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -285,10 +285,10 @@
 	width: 615px;
 	min-height: 130px;
 	background-color: transparent;
+	line-height: 21px;
 	color: #000000;
 	font-size: 15px;
 	text-align: justify;
-	line-height: 21px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
@@ -299,10 +299,10 @@
 	width: 615px;
 	min-height: 99px;
 	background-color: transparent;
+	line-height: 21px;
 	color: #000000;
 	font-size: 15px;
 	text-align: justify;
-	line-height: 21px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 8px;
 	position: relative;
@@ -343,10 +343,10 @@
 	width: 848px;
 	min-height: 45px;
 	background-color: transparent;
+	line-height: 21px;
 	color: #000000;
 	font-size: 15px;
 	text-align: justify;
-	line-height: 21px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 9px;
 	position: relative;
@@ -358,9 +358,9 @@
 	width: 849px;
 	min-height: 45px;
 	background-color: transparent;
+	line-height: 21px;
 	color: #000000;
 	font-size: 15px;
-	line-height: 21px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 11px;
 	position: relative;
@@ -803,9 +803,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	line-height: 23px;
 	color: #999999;
 	font-size: 23px;
-	line-height: 23px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -861,7 +861,7 @@
 	position: relative;
 }
 
-#u177-67
+#u177-77
 {
 	z-index: 230;
 	width: 728px;
@@ -883,25 +883,25 @@
 	font-style: italic;
 }
 
-#u177,#u177-17
+#u177,#u177-27
 {
 	font-weight: bold;
 }
 
-#u177-32
+#u177-42
 {
 	color: #000000;
 	font-weight: bold;
 }
 
-#u185-4,#u185-6,#u185-10,#u177-33
+#u185-4,#u185-6,#u185-10,#u177-43
 {
 	color: #000000;
 }
 
 #u970
 {
-	z-index: 297;
+	z-index: 307;
 	width: 118px;
 	border-style: none;
 	border-color: transparent;
@@ -914,7 +914,7 @@
 
 #u893
 {
-	z-index: 300;
+	z-index: 310;
 	width: 117px;
 	background-color: transparent;
 	margin-left: 1px;
@@ -923,7 +923,7 @@
 
 #u887
 {
-	z-index: 298;
+	z-index: 308;
 	width: 111px;
 	background-color: transparent;
 	margin-top: 19px;
@@ -932,7 +932,7 @@
 
 #u898
 {
-	z-index: 302;
+	z-index: 312;
 	width: 89px;
 	background-color: transparent;
 	margin-left: 12px;
@@ -942,7 +942,7 @@
 
 #u1434
 {
-	z-index: 304;
+	z-index: 314;
 	width: 959px;
 	background-color: transparent;
 	position: relative;
@@ -950,7 +950,7 @@
 
 #u1435-5
 {
-	z-index: 305;
+	z-index: 315;
 	width: 947px;
 	min-height: 23px;
 	border-width: 1px;
@@ -1018,7 +1018,7 @@
 
 #u1436
 {
-	z-index: 310;
+	z-index: 320;
 	width: 957px;
 	border-width: 1px;
 	border-style: solid;
@@ -1030,7 +1030,7 @@
 
 #u1798
 {
-	z-index: 311;
+	z-index: 321;
 	width: 498px;
 	min-height: 175px;
 	border-style: none;
@@ -1044,7 +1044,7 @@
 
 #u232
 {
-	z-index: 312;
+	z-index: 322;
 	width: 959px;
 	background-color: transparent;
 	position: relative;
@@ -1052,7 +1052,7 @@
 
 #u233-4
 {
-	z-index: 313;
+	z-index: 323;
 	width: 947px;
 	min-height: 23px;
 	border-width: 1px;
@@ -1062,9 +1062,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	line-height: 23px;
 	color: #999999;
 	font-size: 23px;
-	line-height: 23px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
@@ -1122,7 +1122,7 @@
 
 #u234
 {
-	z-index: 317;
+	z-index: 327;
 	width: 957px;
 	background: -webkit-gradient(linear, left center, right center, from(#FFFFFF),color-stop(100%, #FFFFFF));
 	background: -webkit-linear-gradient(left,#FFFFFF ,#FFFFFF 100%);
@@ -1138,7 +1138,7 @@
 
 #u1152
 {
-	z-index: 318;
+	z-index: 328;
 	width: 800px;
 	border-style: none;
 	border-color: transparent;
@@ -1151,7 +1151,7 @@
 
 #u969
 {
-	z-index: 319;
+	z-index: 329;
 	width: 800px;
 	border-style: none;
 	border-color: transparent;
@@ -1163,7 +1163,7 @@
 
 #u341
 {
-	z-index: 322;
+	z-index: 332;
 	width: 400px;
 	min-height: 400px;
 	border-width: 3px;
@@ -1184,7 +1184,7 @@
 
 #u333
 {
-	z-index: 320;
+	z-index: 330;
 	width: 312px;
 	background-color: transparent;
 	position: relative;
@@ -1193,7 +1193,7 @@
 
 #u822-19
 {
-	z-index: 323;
+	z-index: 333;
 	width: 309px;
 	min-height: 27px;
 	border-width: 3px;
@@ -1235,7 +1235,7 @@
 
 #u1151-4
 {
-	z-index: 342;
+	z-index: 352;
 	width: 402px;
 	min-height: 30px;
 	border-style: none;
@@ -1259,7 +1259,7 @@
 
 #u1153
 {
-	z-index: 346;
+	z-index: 356;
 	width: 201px;
 	background-color: transparent;
 	position: relative;

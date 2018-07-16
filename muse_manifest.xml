@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://roli-wilhelm.github.io/index.html" resolutions="1x" timestamp="1531681532552">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://roli-wilhelm.github.io/index.html" resolutions="1x" timestamp="1531705510627">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="4247024102" ref="data-warehouse:blog---challenges-and-triumphs:fastqc-graph-c12:micb301:fastqc-k-mer-table:index"/>
+    <file name="master_a-master.css" crc="4003701888" ref="data-warehouse:blog---challenges-and-triumphs:fastqc-graph-c12:micb301:fastqc-k-mer-table:index"/>
     <file name="data-warehouse.css" crc="10703220" ref="data-warehouse"/>
     <file name="blog---challenges-and-triumphs.css" crc="3930883142" ref="blog---challenges-and-triumphs"/>
     <file name="fastqc-graph-c12.css" crc="4070330970" ref="fastqc-graph-c12"/>
     <file name="micb301.css" crc="203726472" ref="micb301"/>
     <file name="fastqc-k-mer-table.css" crc="4270693185" ref="fastqc-k-mer-table"/>
-    <file name="index.css" crc="104606800" ref="index"/>
+    <file name="index.css" crc="452340653" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="skeptical.png" crc="3870951823" seo="true" mt="1401219678000"/>
@@ -47,7 +47,7 @@
     <file name="top k-mers.jpg" crc="4079740781" seo="true" ref="fastqc-k-mer-table"/>
     <file name="website2018.jpg" crc="3821786895" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3842446970" seo="true" mt="1531681531849" redirect="true"/>
+  <file name="index.html" crc="4038089643" seo="true" mt="1531705510052" redirect="true"/>
   <file name="blog---challenges-and-triumphs.html" crc="145297680" seo="true" mt="1531617195021" redirect="true"/>
   <file name="fastqc-graph-c12.html" crc="299909150" seo="true" mt="1531617195021" redirect="true"/>
   <file name="fastqc-k-mer-table.html" crc="4140777435" seo="true" mt="1531617195021" redirect="true"/>

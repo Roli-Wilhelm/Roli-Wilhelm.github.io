@@ -1,56 +1,38 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://roli-wilhelm.github.io/index.html" resolutions="1x" timestamp="1531705510627">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://roli-wilhelm.github.io/index.html" resolutions="1x" timestamp="1587493308929">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="4003701888" ref="data-warehouse:blog---challenges-and-triumphs:fastqc-graph-c12:micb301:fastqc-k-mer-table:index"/>
-    <file name="data-warehouse.css" crc="10703220" ref="data-warehouse"/>
-    <file name="blog---challenges-and-triumphs.css" crc="3930883142" ref="blog---challenges-and-triumphs"/>
-    <file name="fastqc-graph-c12.css" crc="4070330970" ref="fastqc-graph-c12"/>
-    <file name="micb301.css" crc="203726472" ref="micb301"/>
-    <file name="fastqc-k-mer-table.css" crc="4270693185" ref="fastqc-k-mer-table"/>
-    <file name="index.css" crc="452340653" ref="index"/>
+    <file name="master_a-master.css" crc="4003701888" ref="index"/>
+    <file name="index.css" crc="4260110872" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="skeptical.png" crc="3870951823" seo="true" mt="1401219678000"/>
-    <file name="pretrimmed_nuccomp.jpg" crc="81094963" seo="true" mt="1401219678000"/>
+    <file name="pretrimmed_nuccomp.jpg" crc="4241380147" seo="true" mt="1401219678000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
-    <file name="museutils.js" crc="183364071" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
     <file name="webpro.js" crc="3803554875" ref="index"/>
     <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="blog---challenges-and-triumphs"/>
-    <file name="html5shiv.js" crc="4241844378" ref="blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="465361652" ref="index"/>
-    <file name="adf.jpg" crc="530921399" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
-    <file name="pasted image 1400x934-crop-u1918.jpg" crc="493241983" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
-    <file name="u1926-4.png" crc="3818168799" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
-    <file name="mohnlab.jpg" crc="4209454461" seo="true" ref="index:blog---challenges-and-triumphs:fastqc-graph-c12:fastqc-k-mer-table:micb301:data-warehouse"/>
-    <file name="e-mail.jpg" crc="4021541397" seo="true" ref="index"/>
+    <file name="adf.jpg" crc="530921399" ref="index"/>
+    <file name="pasted image 1400x934-crop-u1918.jpg" crc="493241983" ref="index"/>
+    <file name="u1926-4.png" crc="3818168799" ref="index"/>
+    <file name="mohnlab.jpg" crc="4209454461" seo="true" ref="index"/>
+    <file name="e-mail.jpg" crc="4146069210" seo="true" ref="index"/>
+    <file name="website2018.jpg" crc="3885618427" seo="true" ref="index"/>
     <file name="flourish.png" crc="4096283133" seo="true" ref="index"/>
     <file name="ubc logo.jpg" crc="28202033" seo="true" ref="index"/>
     <file name="uofg.jpg" crc="415513609" seo="true" ref="index"/>
     <file name="mcgkill.jpg" crc="396972668" seo="true" ref="index"/>
     <file name="img_0167.jpg" crc="3933539812" seo="true" ref="index"/>
-    <file name="grey-abstract.png" crc="3921566841" seo="true" ref="index"/>
     <file name="github-mark.jpg" crc="4246470185" seo="true" ref="index"/>
     <file name="podcast.png" crc="37704570" seo="true" ref="index"/>
-    <file name="redback.jpg" crc="455243155" ref="index"/>
+    <file name="grey-abstract.png" crc="3921566841" seo="true" ref="index"/>
     <file name="nrm1524-f3.jpg" crc="355184875" seo="true" ref="index"/>
-    <file name="skeptical461x286.jpg" crc="251350908" seo="true" ref="blog---challenges-and-triumphs"/>
-    <file name="pretrimmed_nuccomp.jpg" crc="353647237" seo="true" ref="blog---challenges-and-triumphs"/>
-    <file name="top k-mers569x340.jpg" crc="4082560220" seo="true" ref="blog---challenges-and-triumphs"/>
-    <file name="skeptical.jpg" crc="6799686" seo="true" ref="fastqc-graph-c12"/>
-    <file name="top k-mers.jpg" crc="4079740781" seo="true" ref="fastqc-k-mer-table"/>
-    <file name="website2018.jpg" crc="3821786895" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4038089643" seo="true" mt="1531705510052" redirect="true"/>
-  <file name="blog---challenges-and-triumphs.html" crc="145297680" seo="true" mt="1531617195021" redirect="true"/>
-  <file name="fastqc-graph-c12.html" crc="299909150" seo="true" mt="1531617195021" redirect="true"/>
-  <file name="fastqc-k-mer-table.html" crc="4140777435" seo="true" mt="1531617195021" redirect="true"/>
-  <file name="micb301.html" crc="4213304454" seo="true" mt="1531617195021" redirect="true"/>
-  <file name="data-warehouse.html" crc="176419572" seo="true" mt="1531617195021" redirect="true"/>
+  <file name="index.html" crc="4146669907" seo="true" mt="1587493290512" redirect="true"/>
 </manifest>

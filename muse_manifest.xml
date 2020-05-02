@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://roli-wilhelm.github.io/index.html" resolutions="1x" timestamp="1587493308929">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://roli-wilhelm.github.io/index.html" resolutions="1x" timestamp="1588431708748">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="4003701888" ref="index"/>
-    <file name="index.css" crc="4260110872" ref="index"/>
+    <file name="master_a-master.css" crc="4247024102" ref="index"/>
+    <file name="index.css" crc="362891143" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="skeptical.png" crc="3870951823" seo="true" mt="1401219678000"/>
@@ -34,5 +34,5 @@
     <file name="grey-abstract.png" crc="3921566841" seo="true" ref="index"/>
     <file name="nrm1524-f3.jpg" crc="355184875" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4146669907" seo="true" mt="1587493290512" redirect="true"/>
+  <file name="index.html" crc="389230067" seo="true" mt="1588431703769" redirect="true"/>
 </manifest>

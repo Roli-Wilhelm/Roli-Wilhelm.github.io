@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000015;
-	background-color: #A14787;
+	color: #000017;
+	background-color: #081075;
 }
 
 .html
@@ -572,8 +572,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
 	color: #999999;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -899,7 +899,7 @@
 	font-weight: bold;
 }
 
-#u177-4,#u177-6,#u177-7,#u177-9,#u177-10,#u177-12,#u177-15,#u177-17,#u177-18,#u177-19,#u177-20,#u177-22,#u177-25,#u177-26,#u177-28,#u177-29
+#u177-4,#u177-6,#u177-7,#u177-9,#u177-10,#u177-12,#u177-15,#u177-17,#u177-18,#u177-19,#u177-20,#u177-22,#u177-25,#u177-27,#u177-28,#u177-29
 {
 	font-weight: normal;
 }
@@ -1190,8 +1190,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	text-indent: 5px;
 	line-height: 22px;
+	text-indent: 5px;
 	font-size: 18px;
 	text-align: center;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
